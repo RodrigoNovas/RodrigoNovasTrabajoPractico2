@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1561810792 source:c:\users\rnovas002\3d objects\trabajopractico2final\empleado.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Empleado.h"
+	"utn.h"
+
+1561810705 c:\users\rnovas002\3d objects\trabajopractico2final\empleado.h
+
+1561810705 c:\users\rnovas002\3d objects\trabajopractico2final\utn.h
+
+1561810792 source:c:\users\rnovas002\3d objects\trabajopractico2final\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"utn.h"
+
+1561810723 source:c:\users\rnovas002\3d objects\trabajopractico2final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Empleado.h"
+
